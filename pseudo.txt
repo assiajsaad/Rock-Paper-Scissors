@@ -1,0 +1,5 @@
+Ask the player to choose to play either one round or game
+Ask the player choice
+getComputerChoice:
+    Returns rock-paper-scissors as computer choice
+compare both choices and give the result
